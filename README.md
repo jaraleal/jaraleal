@@ -1,6 +1,6 @@
 <div>
 <div align="left">
-<h1 >Hi! My name is Jara, Im a Student  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </h1>
+<h1 >Hi! My name is Jara, Im a Student  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" align="right"/> </h1>
 
 
 <div align="center">
