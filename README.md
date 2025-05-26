@@ -39,7 +39,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jaraleal/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/jaraleal/count.svg?" />
 </div>
 
 ###
