@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaraleal/jaraleal/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jaraleal/jaraleal/output/snake.svg" alt="Snake animation" />
 
 ###
